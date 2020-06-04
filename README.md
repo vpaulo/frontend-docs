@@ -1,2 +1,2 @@
 # frontend-docs
-Frontebd documentation generation
+Frontend documentation generation
